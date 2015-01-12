@@ -1,46 +1,62 @@
 # German
-## Personal Pronouns
-			NOM.	ACC.	DAT.	POSS.PR.
-I, me		ich		mich	mir		mein
-you			du		dich	dir		dein
-he, him		er		ihn		ihm		sein
-she, her	sie		sie		ihr		ihr
-it			es		es		ihm		sein
-we, us		wir		uns		uns		unser
-you'all 	ihr		euch	euch	eurer
-they, them	sie		sie		ihnen	ihr
-You (form.)	Sie		Sie		Ihnen	Ihr
+## Personal Pronouns	
+		|NOM.	|ACC.	|DAT.	|POSS.PR.|
+----------------|-------|-------|-------|--------|
+I, me		|ich	|mich	|mir	|mein	 |
+you		|du	|dich	|di	|dein	 |
+he, him		|er	|ihn	|ihm	|sein	 |
+she, her	|sie	|sie	|ihr	|ihr	 |
+it		|es	|es	|ihm	|sein	 |
+we, us		|wir	|uns	|uns	|unser	 |
+you'all 	|ihr	|euch	|euch	|eurer	 |
+they, them	|sie	|sie	|ihnen	|ihr	 |
+You (form.)	|Sie	|Sie	|Ihnen	|Ihr 	 |
 
 ## Inflections
 STRONG INFLECTION Starke Flexion (ohne Artikel)
-			{M}			{N}			{F}			{Pl}
-			art.	adj.	art.	adj.	art.	adj.	art.	adj.
-Nominative	-		--er	-		--es	-		--e		-		--e
-Accusative	-		--en	-		--es	-		--e		-		--e
-Dative		-		--em	-		--em	-		--er	-		--en
-Genitive	-		--en	-		--en	-		--er	-		--er
+
+|		|M	|	|N	|	|F	|	|Pl	|	|
+|---------------|-------|-------|-------|-------|-------|-------|-------|-------|
+|		|art.	|adj.	|art.	|adj.	|art.	|adj.	|art.	|adj.	|
+|Nominative	|―	|―er	|―	|―es	|―	|―e	|―	|―e	|
+|Accusative	|―	|―en	|―	|―es	|―	|―e	|―	|―e	|
+|Dative		|―	|―em	|―	|―em	|―	|―er	|―	|―en	|
+|Genitive	|―	|―en	|―	|―en	|―	|―er	|―	|―er	|
 
 MIXED INFLECTION Gemischte Flexion (mit ein, kein, Possessivpronomen u.a.)
-			{M}				{N}				{F}				{Pl}			|			Ein-group Endings (2)
-			art.	adj.	art.	adj.	art.	adj.	art.	adj.	|				{M}		{N}		{F}		{Pl}
-Nominative	ein		--er	ein		--es	eine	--e 	keine	--en	|	Nominative	--		--		--e		--e
-Accusative	einen	--en	ein		--es	eine	--e 	keine	--en	|	Accusative	--en	--		--e		--e
-Dative		einem	--en	einem	--en	einer	--en	keinen	--en	|	Dative		--em	--em	--er	--en
-Genitive	eines	--en	eines	--en	einer	--en	keiner	--en	|	Genitive	--es	--es	--er	--er
+
+|		|M	|	|N	|	|F	|	|Pl	|	|
+|---------------|-------|-------|-------|-------|-------|-------|-------|-------|
+|		|art.	|adj.	|art.	|adj.	|art.	|adj.	|art.	|adj.	|
+|Nominative	|ein	|--er	|ein	|--es	|eine	|--e 	|keine	|--en	|
+|Accusative	|einen	|--en	|ein	|--es	|eine	|--e 	|keine	|--en	|
+|Dative		|einem	|--en	|einem	|--en	|einer	|--en	|keinen	|--en	|
+|Genitive	|eines	|--en	|eines	|--en	|einer	|--en	|keiner	|--en	|
+
+		Ein-group Endings 
+		
+|		|{M}	|{N}	|{F}	|{Pl}	|
+|---------------|-------|-------|-------|-------|
+|Nominative	|--	|--	|--e	|--e	|
+|Accusative	|--en	|--	|--e	|--e	|
+|Dative		|--em	|--em	|--er	|--en	|
+|Genitive	|--es	|--es	|--er	|--er	|
 
 WEAK INFLECTION Schwache Flexion (mit bestimmtem Artikel)
-			{M}				{N}				{F}				{Pl}
-			art.	adj.	art.	adj.	art.	adj.	art.	adj.
-Nominative	der		--e		das		--e		die		--e		die		--en
-Accusative	den		--en	das		--e		die		--e		die		--en
-Dative		dem		--en	dem		--en	der		--en	den		--en
-Genitive	des		--en	des		--en	der		--en	der		--en
+
+|		|M	|	|N	|	|F	|	|Pl	|	|
+|---------------|-------|-------|-------|-------|-------|-------|-------|-------|
+|		|art.	|adj.	|art.	|adj.	|art.	|adj.	|art.	|adj.	|
+|Nominative	|der	|--e	|das	|--e	|die	|--e	|die	|--en	|
+|Accusative	|den	|--en	|das	|--e	|die	|--e	|die	|--en	|
+|Dative		|dem	|--en	|dem	|--en	|der	|--en	|den	|--en	|
+|Genitive	|des	|--en	|des	|--en	|der	|--en	|der	|--en	|
 
 Wer trifft wen?
 Sie hat ihren eigenen raum.
 Lauft es darauf hinaus?
 
-## Gender of the nowns
+## Gender of the nouns
 Masculine:
 
 -en (unless the noun=the infinite of a verb) e.g. der Haken, der Wagen
