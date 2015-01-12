@@ -1,16 +1,16 @@
 # German
 ## Personal Pronouns	
-		|NOM.	|ACC.	|DAT.	|POSS.PR.|
-----------------|-------|-------|-------|--------|
-I, me		|ich	|mich	|mir	|mein	 |
-you		|du	|dich	|di	|dein	 |
-he, him		|er	|ihn	|ihm	|sein	 |
-she, her	|sie	|sie	|ihr	|ihr	 |
-it		|es	|es	|ihm	|sein	 |
-we, us		|wir	|uns	|uns	|unser	 |
-you'all 	|ihr	|euch	|euch	|eurer	 |
-they, them	|sie	|sie	|ihnen	|ihr	 |
-You (form.)	|Sie	|Sie	|Ihnen	|Ihr 	 |
+|		|NOM.	|ACC.	|DAT.	|POSS.PR.|
+|---------------|-------|-------|-------|--------|
+|I, me		|ich	|mich	|mir	|mein	 |
+|you		|du	|dich	|di	|dein	 |
+|he, him	|er	|ihn	|ihm	|sein	 |
+|she, her	|sie	|sie	|ihr	|ihr	 |
+|it		|es	|es	|ihm	|sein	 |
+|we, us		|wir	|uns	|uns	|unser	 |
+|you'all 	|ihr	|euch	|euch	|eurer	 |
+|they, them	|sie	|sie	|ihnen	|ihr	 |
+|You (form.)	|Sie	|Sie	|Ihnen	|Ihr 	 |
 
 ## Inflections
 ###STRONG INFLECTION Starke Flexion (ohne Artikel)
@@ -78,3 +78,5 @@ Sie hat ihren eigenen raum.
 Lauft es darauf hinaus? 
 
 Sieht so aus als ob jemand hier wohnen würde.
+
+Wenn nur wir einen Garten hätten!
