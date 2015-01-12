@@ -74,5 +74,7 @@ Very helpful to remember. Of course there are exceptions, but this will definite
 
 ##Phrases
 Wer trifft wen? 
+
 Sie hat ihren eigenen raum. 
+
 Lauft es darauf hinaus? 
