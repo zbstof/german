@@ -76,3 +76,5 @@ Wer trifft wen?
 Sie hat ihren eigenen raum. 
 
 Lauft es darauf hinaus? 
+
+Sieht so aus als ob jemand hier wohnen würde.
