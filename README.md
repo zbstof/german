@@ -54,21 +54,21 @@ You (form.)	|Sie	|Sie	|Ihnen	|Ihr 	 |
 
 ## Gender of the nouns
 ###Masculine:
-**-en** (unless the noun=the infinite of a verb) e.g. der Haken, der Wagen
-Nouns, which are identical with a **verbal stem** e.g. der Streit, der Bau
-Verbal stem + **er** (arbeit (-en)= der Arbeiter) e.g. der Kugelschreiber, der Flaschenöffner
-Foreign words, which end with **-us** e.g. der Zirkus, der Liberalismus
+- **-en** (unless the noun=the infinite of a verb) e.g. der Haken, der Wagen
+- Nouns, which are identical with a **verbal stem** e.g. der Streit, der Bau
+- Verbal stem + **er** (arbeit (-en)= der Arbeiter) e.g. der Kugelschreiber, der Flaschenöffner
+- Foreign words, which end with **-us** e.g. der Zirkus, der Liberalismus
 
 ###Feminine:
-**-e** e.g. die Farbe, die Note (this is a very general rule and has many exceptions)
-**-ei, -eit, -heit, -keit, -schaft, and -ung** e.g. die Lebelei, die Arbeit, die Sauberkeit, die Gemeinschaft, die Rechnung
-Foreign words, which end with **-ik, -ion, -nz, -tät, and -ur** e.g. die Musik, die Diskussion, die Konkurrenz, die Rarität, die Kultur
+- **-e** e.g. die Farbe, die Note (this is a very general rule and has many exceptions)
+- **-ei, -eit, -heit, -keit, -schaft, and -ung** e.g. die Lebelei, die Arbeit, die Sauberkeit, die Gemeinschaft, die Rechnung
+- Foreign words, which end with **-ik, -ion, -nz, -tät, and -ur** e.g. die Musik, die Diskussion, die Konkurrenz, die Rarität, die Kultur
 
 ###Neuter:
-Nouns, which are identical with infinite of the verb e.g. das Essen, das Fernsehen, das Rauchen
-**-chen and -lein** e.g. das Fräulein, das Mädchen, das Rotkäppchen
-**-nis** e.g. Ereignis, das Zeugnis, das Erlebnis
-Words, which begin with **Ge-** e.g. das Geschäft, das Geschirr, das Gefühl
+- Nouns, which are identical with infinite of the verb e.g. das Essen, das Fernsehen, das Rauchen
+- **-chen and -lein** e.g. das Fräulein, das Mädchen, das Rotkäppchen
+- **-nis** e.g. Ereignis, das Zeugnis, das Erlebnis
+- Words, which begin with **Ge-** e.g. das Geschäft, das Geschirr, das Gefühl
 
 ##Phrases
 Wer trifft wen? 
