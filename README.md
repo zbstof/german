@@ -13,7 +13,7 @@ they, them	|sie	|sie	|ihnen	|ihr	 |
 You (form.)	|Sie	|Sie	|Ihnen	|Ihr 	 |
 
 ## Inflections
-STRONG INFLECTION Starke Flexion (ohne Artikel)
+###STRONG INFLECTION Starke Flexion (ohne Artikel)
 
 |		|M	|	|N	|	|F	|	|Pl	|	|
 |---------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -23,7 +23,7 @@ STRONG INFLECTION Starke Flexion (ohne Artikel)
 |Dative		|―	|―em	|―	|―em	|―	|―er	|―	|―en	|
 |Genitive	|―	|―en	|―	|―en	|―	|―er	|―	|―er	|
 
-MIXED INFLECTION Gemischte Flexion (mit ein, kein, Possessivpronomen u.a.)
+###MIXED INFLECTION Gemischte Flexion (mit ein, kein, Possessivpronomen u.a.)
 
 |		|M	|	|N	|	|F	|	|Pl	|	|
 |---------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -33,7 +33,7 @@ MIXED INFLECTION Gemischte Flexion (mit ein, kein, Possessivpronomen u.a.)
 |Dative		|einem	|--en	|einem	|--en	|einer	|--en	|keinen	|--en	|
 |Genitive	|eines	|--en	|eines	|--en	|einer	|--en	|keiner	|--en	|
 
-		Ein-group Endings 
+####Ein-group Endings 
 		
 |		|{M}	|{N}	|{F}	|{Pl}	|
 |---------------|-------|-------|-------|-------|
@@ -42,7 +42,7 @@ MIXED INFLECTION Gemischte Flexion (mit ein, kein, Possessivpronomen u.a.)
 |Dative		|--em	|--em	|--er	|--en	|
 |Genitive	|--es	|--es	|--er	|--er	|
 
-WEAK INFLECTION Schwache Flexion (mit bestimmtem Artikel)
+###WEAK INFLECTION Schwache Flexion (mit bestimmtem Artikel)
 
 |		|M	|	|N	|	|F	|	|Pl	|	|
 |---------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -51,10 +51,6 @@ WEAK INFLECTION Schwache Flexion (mit bestimmtem Artikel)
 |Accusative	|den	|--en	|das	|--e	|die	|--e	|die	|--en	|
 |Dative		|dem	|--en	|dem	|--en	|der	|--en	|den	|--en	|
 |Genitive	|des	|--en	|des	|--en	|der	|--en	|der	|--en	|
-
-Wer trifft wen?
-Sie hat ihren eigenen raum.
-Lauft es darauf hinaus?
 
 ## Gender of the nouns
 Masculine:
@@ -75,4 +71,8 @@ Nouns, which are identical with infinite of the verb e.g. das Essen, das Fernseh
 -nis e.g. Ereignis, das Zeugnis, das Erlebnis
 Words, which begin with Ge- e.g. das Geschäft, das Geschirr, das Gefühl
 Very helpful to remember. Of course there are exceptions, but this will definitely help.
-This is just my German notes
+
+##Phrases
+Wer trifft wen?
+Sie hat ihren eigenen raum.
+Lauft es darauf hinaus?
