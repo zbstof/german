@@ -35,7 +35,7 @@ You (form.)	|Sie	|Sie	|Ihnen	|Ihr 	 |
 
 ####Ein-group Endings 
 		
-|		|{M}	|{N}	|{F}	|{Pl}	|
+|		|M	|N	|F	|Pl	|
 |---------------|-------|-------|-------|-------|
 |Nominative	|--	|--	|--e	|--e	|
 |Accusative	|--en	|--	|--e	|--e	|
@@ -73,6 +73,6 @@ Words, which begin with Ge- e.g. das Geschäft, das Geschirr, das Gefühl
 Very helpful to remember. Of course there are exceptions, but this will definitely help.
 
 ##Phrases
-Wer trifft wen?
-Sie hat ihren eigenen raum.
-Lauft es darauf hinaus?
+Wer trifft wen? 
+Sie hat ihren eigenen raum. 
+Lauft es darauf hinaus? 
