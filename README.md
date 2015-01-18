@@ -82,3 +82,5 @@ Sieht so aus als ob jemand hier wohnen würde.
 Wenn nur wir einen Garten hätten!
 
 Wir führen ein Gespräch.
+
+Wer kommt noch hinzu? - Who else comes
