@@ -70,6 +70,18 @@
 - **-nis** e.g. Ereignis, das Zeugnis, das Erlebnis
 - Words, which begin with **Ge-** e.g. das Geschäft, das Geschirr, das Gefühl
 
+###Modal verbs
+
+| 		|können			|dürfen			|müssen			|mögen		|wollen		|sollen				|möchten 	|	
+|---------------|-----------------------|-----------------------|-----------------------|---------------|---------------|-------------------------------|---------------|
+|ich   		|kann   		|darf   		|muss   		|mag   		|will   	|soll				|möchte        	|	
+|du   		|kannst   		|darfst   		|musst   		|magst   	|willst   	|sollst				|möchtest       |		
+|er/sie/es   	|kann   		|darf   		|muss   		|mag   		|will   	|soll				|möchte 	|	
+|wir   		|können   		|dürfen   		|müssen   		|mögen   	|wollen   	|sollen				|möchten	|	
+|ihr   		|könnt   		|dürft   		|müsst   		|mögt   	|wollt   	|sollt				|möchtet	|	
+|sie/Sie   	|können   		|dürfen   		|müssen   		|mögen   	|wollen   	|sollen				|möchten	|	
+|   		|can, to be able to	|may, to be allowed to	|must, to have to	|to like (to)	|to want (to)	|should, to be supposed to	|would like to	|				
+
 ##Phrases
 Wer trifft wen? 
 
