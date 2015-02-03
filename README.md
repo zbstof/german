@@ -95,6 +95,8 @@ Wenn nur wir einen Garten hätten!
 
 Wir führen ein Gespräch.
 
+Sie kommen ins Gespräch.
+
 Wer kommt noch hinzu? - Who else comes
 
 Translation:Man sieht sich!
